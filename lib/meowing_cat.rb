@@ -6,4 +6,7 @@ class Cat
     @meow
   end
   
+  def meow
+    puts meow
+  end
 end
